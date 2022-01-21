@@ -1,4 +1,4 @@
-# Proyecto IoT
+# ProyectoS IoT
 
 # Proyecto 1
 ## Diseño e implementación de una Red de Sensores Inalámbricos para controlar y monitorear parámetros ambientales para la agricultura, basados en los protocolos ZIGBEE y WIFI.
