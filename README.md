@@ -27,7 +27,7 @@ monitoreo, envío y recepción de datos en tiempo real a través de un servidor 
 microcontrolador. El control del sistema se realiza remotamente a través de Internet
 
 
-[Proyecto 2](Proyecto_1.pdf)
+[Proyecto 2](PROYECTO_TELEINFORMATICA.pdf)
 
 
 # Proyecto 3
@@ -41,4 +41,4 @@ Nuestra propuesta consistió en realizar el análisis y diseño de una red,  int
 con radioenlaces de larga distancia  mediante el uso de dos tecnología inalámbricas; la IEEE802.11 WiFi y  
 Satelital teniendo en cuenta que se debe tener línea de vista despejada entre los sitios a conectar
 
-[Proyecto 3](Proyecto_1.pdf)
+[Proyecto 3](PROYECTO_TELECOMUNICACIONES.pdf)
